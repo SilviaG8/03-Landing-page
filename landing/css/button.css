@@ -1,0 +1,13 @@
+.btn-primary {
+  background-color: #C3754B;
+  padding: 10px 20px;
+  border-radius: 40px;
+  color: white;
+  display: inline-block;
+  margin: 10px 0px;
+}
+
+a {
+  text-decoration: none;
+}
+

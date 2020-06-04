@@ -1,0 +1,32 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.card {
+  width: 200px;
+  border-radius: 3px;
+  text-align: center;
+  padding: 20px;
+  border: 1 px solid rgb(240,240,240);
+  box-shadow: 3px 3px 5px 6px rgb(240,240,240);
+}
+
+.card img {
+  height: 100px;
+}
+.card h4 {
+  display: block;
+  margin-block-start: 1.33em;
+  margin-block-end: 1.33em;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  color: black;
+}
+
+.card p {
+  opacity: 0.5;
+  text-align: center;
+  color:black;
+}

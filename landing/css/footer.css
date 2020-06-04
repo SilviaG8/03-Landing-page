@@ -1,0 +1,24 @@
+.footer {
+  text-align: center;
+  padding: 50px;
+  background-color: #C3754B;
+}
+
+.footer a {
+  font-size: 30px;
+  color: white;
+}
+
+.footer a:hover {
+  color: black;
+}
+
+.footer p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  color: white;
+  font-size: 20px;
+}
